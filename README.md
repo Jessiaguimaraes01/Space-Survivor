@@ -31,7 +31,7 @@ Após as alterações, o projeto foi publicado no GitHub e disponibilizado por m
 
 - **Diferencial do Projeto:** Funciona 100% no navegador dentro de um único arquivo otimizado, sem a necessidade de bibliotecas externas, oferecendo alta performance gráfica, efeitos de som dinâmicos por código e suporte completo a telas sensíveis ao toque (Mobile).
 
-## Instalação e USo
+## Instalação e Uso
 
 Você pode jogar diretamente pelo navegador sem precisar instalar nada no computador. Para rodar o projeto localmente, siga os passos:
 
