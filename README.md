@@ -9,7 +9,9 @@
 
 ## Sobre o projeto
 
-"Space Survivor" é um jogo de ação espacial frenético! No comando de uma nave solitária, você enfrenta hordas neon de inimigos em um combate estilo "bullet hell". Use impulsos rápidos para desviar, evolua suas armas a cada nível e colete "power-ups" devastadores para derrotar chefes colossais. Sobreviva e supere seus limites!
+Embarque em uma batalha frenética no vazio do espaço em **Space Survivor**! No comando de uma nave solitária, seu único objetivo é sobreviver a ondas infinitas de inimigos neon em um combate *bullet hell* eletrizante. Movimente-se com precisão, use impulsos rápidos para desviar do perigo e veja suas armas dispararem automaticamente contra as ameaças.
+
+A cada oponente destruído, você ganha experiência para evoluir sua nave com armas mais fortes, escudos e melhorias estratégicas, além de coletar *power-ups* devastadores no campo de batalha. Enfrente chefes colossais, supere seus limites e descubra até onde suas habilidades conseguem te levar nesta viciante jornada espacial!
 
 ### Objetivo do Projeto
 
