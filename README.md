@@ -33,7 +33,7 @@ Após as alterações, o projeto foi publicado no GitHub e disponibilizado por m
 
 Você pode jogar diretamente pelo navegador sem precisar instalar nada no computador. Para rodar o projeto localmente, siga os passos:
 
-- Baixe o arquivo SpaceSurvivor-Melhorado2.0.html deste repositório.
+- Baixe o arquivo deste repositório.
 
 - Dê um duplo clique no arquivo baixado para abri-lo no seu navegador de preferência (Google Chrome, Edge, Firefox, etc.).
 
