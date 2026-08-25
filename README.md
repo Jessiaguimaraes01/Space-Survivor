@@ -1,4 +1,4 @@
-# **Space-Survivor**
+# **Space Survivor**
 
 ## Desenvolvedor
 
